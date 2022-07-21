@@ -3,14 +3,14 @@ Listado de todas las princesas Disney reconocidas por la web:
 -Cenicienta
 -Bella
 -Ariel
--Jasmín
+-Jazmín
 -Pocahontas
 -Mulán
 -Aurora
 -Rapunzel
--Tiana
+-tiana
 -Mérida
 -Elsa
--Anna
+-ana
 -Moana
 -
